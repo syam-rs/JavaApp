@@ -54,7 +54,7 @@
         <h1>Hello</h1>
         <p>This is Syams DevOps AWS Lab</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-        <p><a class="btn btn-primary btn-lg" role="button">Register &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button">Logout &raquo;</a></p>
     </div>
 </div>
 
