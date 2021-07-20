@@ -61,7 +61,7 @@ pipeline{
                     }
                 }
 
-/*         // Stage 5 : Deploying the build artifact to Apache Tomcat
+         // Stage 5 : Deploying the build artifact to Apache Tomcat
         stage ('Deploy to Tomcat'){
             steps {
                 echo "Deploying ...."
@@ -83,7 +83,7 @@ pipeline{
             }
         }
 
-    // Stage 6 : Deploying the build artifact to Docker
+/*    // Stage 6 : Deploying the build artifact to Docker
         stage ('Deploy to Docker'){
             steps {
                 echo "Deploying ...."
